@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Tejas-Barde/LeetCode/tree/master/0036-valid-sudoku) |
 | [0221-maximal-square](https://github.com/Tejas-Barde/LeetCode/tree/master/0221-maximal-square) |
 | [0945-snakes-and-ladders](https://github.com/Tejas-Barde/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [3483-alternating-groups-ii](https://github.com/Tejas-Barde/LeetCode/tree/master/3483-alternating-groups-ii) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Tejas-Barde/LeetCode/tree/master/0036-valid-sudoku) |
 | [0221-maximal-square](https://github.com/Tejas-Barde/LeetCode/tree/master/0221-maximal-square) |
 | [0945-snakes-and-ladders](https://github.com/Tejas-Barde/LeetCode/tree/master/0945-snakes-and-ladders) |
 ## String
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Tejas-Barde/LeetCode/tree/master/0036-valid-sudoku) |
 | [0146-lru-cache](https://github.com/Tejas-Barde/LeetCode/tree/master/0146-lru-cache) |
 | [0433-minimum-genetic-mutation](https://github.com/Tejas-Barde/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tejas-Barde/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
