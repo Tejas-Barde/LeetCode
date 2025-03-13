@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0585-investments-in-2016](https://github.com/Tejas-Barde/LeetCode/tree/master/0585-investments-in-2016) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Tejas-Barde/LeetCode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [1480-movie-rating](https://github.com/Tejas-Barde/LeetCode/tree/master/1480-movie-rating) |
 <!---LeetCode Topics End-->
