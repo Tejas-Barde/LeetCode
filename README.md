@@ -99,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Tejas-Barde/LeetCode/tree/master/0224-basic-calculator) |
+## Database
+|  |
+| ------- |
+| [1480-movie-rating](https://github.com/Tejas-Barde/LeetCode/tree/master/1480-movie-rating) |
 <!---LeetCode Topics End-->
