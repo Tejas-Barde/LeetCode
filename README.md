@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0097-interleaving-string](https://github.com/Tejas-Barde/LeetCode/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/Tejas-Barde/LeetCode/tree/master/0139-word-break) |
+| [0224-basic-calculator](https://github.com/Tejas-Barde/LeetCode/tree/master/0224-basic-calculator) |
 | [0433-minimum-genetic-mutation](https://github.com/Tejas-Barde/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tejas-Barde/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Tejas-Barde/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -86,4 +87,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Tejas-Barde/LeetCode/tree/master/0139-word-break) |
+## Math
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/Tejas-Barde/LeetCode/tree/master/0224-basic-calculator) |
+## Stack
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/Tejas-Barde/LeetCode/tree/master/0224-basic-calculator) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/Tejas-Barde/LeetCode/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
