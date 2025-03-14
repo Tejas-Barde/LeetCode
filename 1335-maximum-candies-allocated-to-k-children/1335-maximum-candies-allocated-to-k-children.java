@@ -1,14 +1,10 @@
 class Solution {
     public int maximumCandies(int[] candies, long k) {
         int n = candies.length;
-        long sum = 0;
-        int max = Integer.MIN_VALUE;    
-        for(int i = 0;i<n;i++){
-            sum += candies[i];
-            max = Math.max(candies[i],max);
-        }
+        long sum = 0;    
+        for(int i = 0;i<n;i++) sum += candies[i];
         if(sum < k) return 0;
-        int left = 1,right = max;
+        int left = 1,right = (int) (sum/k);
         int result = 0;
         while(left <= right){
             int mid = (left+right)/2;
