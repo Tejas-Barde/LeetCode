@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Tejas-Barde/LeetCode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Tejas-Barde/LeetCode/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/Tejas-Barde/LeetCode/tree/master/0139-word-break) |
 | [0221-maximal-square](https://github.com/Tejas-Barde/LeetCode/tree/master/0221-maximal-square) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Tejas-Barde/LeetCode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Tejas-Barde/LeetCode/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/Tejas-Barde/LeetCode/tree/master/0139-word-break) |
 | [0224-basic-calculator](https://github.com/Tejas-Barde/LeetCode/tree/master/0224-basic-calculator) |
