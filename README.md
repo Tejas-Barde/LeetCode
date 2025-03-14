@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Tejas-Barde/LeetCode/tree/master/0139-word-break) |
 | [0221-maximal-square](https://github.com/Tejas-Barde/LeetCode/tree/master/0221-maximal-square) |
 | [0945-snakes-and-ladders](https://github.com/Tejas-Barde/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Tejas-Barde/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Tejas-Barde/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3483-alternating-groups-ii](https://github.com/Tejas-Barde/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Tejas-Barde/LeetCode/tree/master/3639-zero-array-transformation-i) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Tejas-Barde/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Tejas-Barde/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/Tejas-Barde/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Counting
