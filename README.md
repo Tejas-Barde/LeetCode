@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Tejas-Barde/LeetCode/tree/master/0036-valid-sudoku) |
 | [0139-word-break](https://github.com/Tejas-Barde/LeetCode/tree/master/0139-word-break) |
 | [0221-maximal-square](https://github.com/Tejas-Barde/LeetCode/tree/master/0221-maximal-square) |
+| [0502-ipo](https://github.com/Tejas-Barde/LeetCode/tree/master/0502-ipo) |
 | [0945-snakes-and-ladders](https://github.com/Tejas-Barde/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Tejas-Barde/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Tejas-Barde/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -123,12 +124,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Tejas-Barde/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0502-ipo](https://github.com/Tejas-Barde/LeetCode/tree/master/0502-ipo) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Tejas-Barde/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0502-ipo](https://github.com/Tejas-Barde/LeetCode/tree/master/0502-ipo) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Tejas-Barde/LeetCode/tree/master/0295-find-median-from-data-stream) |
+## Greedy
+|  |
+| ------- |
+| [0502-ipo](https://github.com/Tejas-Barde/LeetCode/tree/master/0502-ipo) |
 <!---LeetCode Topics End-->
