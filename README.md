@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Tejas-Barde/LeetCode/tree/master/0176-second-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/Tejas-Barde/LeetCode/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/Tejas-Barde/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0585-investments-in-2016](https://github.com/Tejas-Barde/LeetCode/tree/master/0585-investments-in-2016) |
