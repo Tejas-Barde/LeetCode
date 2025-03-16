@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/Tejas-Barde/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0585-investments-in-2016](https://github.com/Tejas-Barde/LeetCode/tree/master/0585-investments-in-2016) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Tejas-Barde/LeetCode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/Tejas-Barde/LeetCode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1480-movie-rating](https://github.com/Tejas-Barde/LeetCode/tree/master/1480-movie-rating) |
 | [1625-group-sold-products-by-the-date](https://github.com/Tejas-Barde/LeetCode/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/Tejas-Barde/LeetCode/tree/master/1670-patients-with-a-condition) |
