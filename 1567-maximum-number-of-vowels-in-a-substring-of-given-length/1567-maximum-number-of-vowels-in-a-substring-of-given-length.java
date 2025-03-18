@@ -4,6 +4,7 @@ class Solution {
         for(int i = 0;i<s.length();i++){
             if(isVowel(s.charAt(i))) vowel++;
             if(i-k>=0 && isVowel(s.charAt(i-k))) vowel--;
+            if(result == k) return result;
             result = Math.max(result,vowel);
         }
         return result;
