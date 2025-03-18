@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Tejas-Barde/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0643-maximum-average-subarray-i](https://github.com/Tejas-Barde/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tejas-Barde/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tejas-Barde/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2478-longest-nice-subarray](https://github.com/Tejas-Barde/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [3483-alternating-groups-ii](https://github.com/Tejas-Barde/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Tejas-Barde/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Tejas-Barde/LeetCode/tree/master/0224-basic-calculator) |
 | [0433-minimum-genetic-mutation](https://github.com/Tejas-Barde/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tejas-Barde/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tejas-Barde/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Tejas-Barde/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Hash Table
 |  |
