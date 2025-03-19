@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Tejas-Barde/LeetCode/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/Tejas-Barde/LeetCode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Tejas-Barde/LeetCode/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/Tejas-Barde/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/Tejas-Barde/LeetCode/tree/master/0224-basic-calculator) |
 | [0433-minimum-genetic-mutation](https://github.com/Tejas-Barde/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tejas-Barde/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Tejas-Barde/LeetCode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Tejas-Barde/LeetCode/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/Tejas-Barde/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0208-implement-trie-prefix-tree](https://github.com/Tejas-Barde/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0433-minimum-genetic-mutation](https://github.com/Tejas-Barde/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tejas-Barde/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Tejas-Barde/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Tejas-Barde/LeetCode/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/Tejas-Barde/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/Tejas-Barde/LeetCode/tree/master/0295-find-median-from-data-stream) |
 ## Doubly-Linked List
 |  |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Tejas-Barde/LeetCode/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/Tejas-Barde/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 ## Memoization
 |  |
 | ------- |
