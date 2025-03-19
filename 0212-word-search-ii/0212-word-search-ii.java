@@ -2,14 +2,9 @@ class Solution {
     char[][] board;
 
     private class Node{
-        Node[] next;
+        Node[] next = new Node[26];
         String word ;
         boolean isTerminal ;
-        public Node(){
-            next = new Node[26];
-            Arrays.fill(next,null);
-            isTerminal = false;
-        }
     }
     public List<String> findWords(char[][] board, String[] words) {
         Node head = new Node();
