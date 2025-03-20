@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Tejas-Barde/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0036-valid-sudoku](https://github.com/Tejas-Barde/LeetCode/tree/master/0036-valid-sudoku) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Tejas-Barde/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Tejas-Barde/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Tejas-Barde/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Tejas-Barde/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Tejas-Barde/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Tejas-Barde/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Tejas-Barde/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
