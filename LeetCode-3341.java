@@ -1,3 +1,5 @@
+import java.util.*;
+
 class Solution {
     public int minTimeToReach(int[][] moveTime) {
         int n = moveTime.length, m = moveTime[0].length;
