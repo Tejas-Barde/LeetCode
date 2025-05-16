@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Tejas-Barde/LeetCode/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/Tejas-Barde/LeetCode/tree/master/0224-basic-calculator) |
 | [0433-minimum-genetic-mutation](https://github.com/Tejas-Barde/LeetCode/tree/master/0433-minimum-genetic-mutation) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Tejas-Barde/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tejas-Barde/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tejas-Barde/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Tejas-Barde/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/Tejas-Barde/LeetCode/tree/master/0113-path-sum-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Tejas-Barde/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Tejas-Barde/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [2793-count-the-number-of-complete-components](https://github.com/Tejas-Barde/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Backtracking
 |  |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Tejas-Barde/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/Tejas-Barde/LeetCode/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/Tejas-Barde/LeetCode/tree/master/0216-combination-sum-iii) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Tejas-Barde/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Graph
 |  |
 | ------- |
@@ -282,8 +285,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Tejas-Barde/LeetCode/tree/master/0113-path-sum-ii) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Tejas-Barde/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Binary Tree
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Tejas-Barde/LeetCode/tree/master/0113-path-sum-ii) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Tejas-Barde/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
 <!---LeetCode Topics End-->
