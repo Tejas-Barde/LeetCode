@@ -235,11 +235,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/Tejas-Barde/LeetCode/tree/master/0113-path-sum-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Tejas-Barde/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [2793-count-the-number-of-complete-components](https://github.com/Tejas-Barde/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Backtracking
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/Tejas-Barde/LeetCode/tree/master/0113-path-sum-ii) |
 | [0212-word-search-ii](https://github.com/Tejas-Barde/LeetCode/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/Tejas-Barde/LeetCode/tree/master/0216-combination-sum-iii) |
 ## Graph
@@ -271,4 +273,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Tejas-Barde/LeetCode/tree/master/0164-maximum-gap) |
+## Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Tejas-Barde/LeetCode/tree/master/0113-path-sum-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Tejas-Barde/LeetCode/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
