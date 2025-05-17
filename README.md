@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tejas-Barde/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tejas-Barde/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Tejas-Barde/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0224-basic-calculator](https://github.com/Tejas-Barde/LeetCode/tree/master/0224-basic-calculator) |
 ## Recursion
 |  |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Tejas-Barde/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Tejas-Barde/LeetCode/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tejas-Barde/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Tejas-Barde/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Tejas-Barde/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Tejas-Barde/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [2793-count-the-number-of-complete-components](https://github.com/Tejas-Barde/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Tejas-Barde/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Tejas-Barde/LeetCode/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tejas-Barde/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Tejas-Barde/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Tejas-Barde/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Binary Tree
 |  |
@@ -302,5 +305,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Tejas-Barde/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Tejas-Barde/LeetCode/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tejas-Barde/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Tejas-Barde/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Tejas-Barde/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
 <!---LeetCode Topics End-->
