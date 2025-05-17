@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Tejas-Barde/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0224-basic-calculator](https://github.com/Tejas-Barde/LeetCode/tree/master/0224-basic-calculator) |
+| [0258-add-digits](https://github.com/Tejas-Barde/LeetCode/tree/master/0258-add-digits) |
 ## Stack
 |  |
 | ------- |
@@ -307,4 +308,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Tejas-Barde/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tejas-Barde/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Tejas-Barde/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Tejas-Barde/LeetCode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Tejas-Barde/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
