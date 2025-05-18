@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Tejas-Barde/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Tejas-Barde/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0146-lru-cache](https://github.com/Tejas-Barde/LeetCode/tree/master/0146-lru-cache) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Tejas-Barde/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Design
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Tejas-Barde/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Tejas-Barde/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Geometry
 |  |
 | ------- |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tejas-Barde/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Tejas-Barde/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Tejas-Barde/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Tejas-Barde/LeetCode/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tejas-Barde/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tejas-Barde/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Tejas-Barde/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Tejas-Barde/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Tejas-Barde/LeetCode/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tejas-Barde/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -316,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Tejas-Barde/LeetCode/tree/master/0258-add-digits) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Tejas-Barde/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 <!---LeetCode Topics End-->
