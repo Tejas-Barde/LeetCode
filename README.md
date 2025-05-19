@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Tejas-Barde/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Tejas-Barde/LeetCode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Tejas-Barde/LeetCode/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/Tejas-Barde/LeetCode/tree/master/0118-pascals-triangle) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Tejas-Barde/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/Tejas-Barde/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Tejas-Barde/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Tejas-Barde/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/Tejas-Barde/LeetCode/tree/master/0093-restore-ip-addresses) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Tejas-Barde/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tejas-Barde/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tejas-Barde/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tejas-Barde/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
