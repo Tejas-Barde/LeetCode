@@ -6,6 +6,7 @@ class Solution {
         for(int cost : costs) freq[cost]++;
         int result = 0;
         for(int i = 1;i<max+1;i++){
+            if(freq[i] == 0) continue;
             int temp = i*freq[i];
             if(temp <= coins){
                 result += freq[i];
