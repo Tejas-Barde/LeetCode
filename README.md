@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-build-an-array-with-stack-operations](https://github.com/Tejas-Barde/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tejas-Barde/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1961-maximum-ice-cream-bars](https://github.com/Tejas-Barde/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
+| [2049-eliminate-maximum-number-of-monsters](https://github.com/Tejas-Barde/LeetCode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2058-concatenation-of-array](https://github.com/Tejas-Barde/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Tejas-Barde/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Tejas-Barde/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Tejas-Barde/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0502-ipo](https://github.com/Tejas-Barde/LeetCode/tree/master/0502-ipo) |
 | [1961-maximum-ice-cream-bars](https://github.com/Tejas-Barde/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
+| [2049-eliminate-maximum-number-of-monsters](https://github.com/Tejas-Barde/LeetCode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [3321-type-of-triangle](https://github.com/Tejas-Barde/LeetCode/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/Tejas-Barde/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Heap (Priority Queue)
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Tejas-Barde/LeetCode/tree/master/0135-candy) |
 | [0502-ipo](https://github.com/Tejas-Barde/LeetCode/tree/master/0502-ipo) |
 | [1961-maximum-ice-cream-bars](https://github.com/Tejas-Barde/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
+| [2049-eliminate-maximum-number-of-monsters](https://github.com/Tejas-Barde/LeetCode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [3647-zero-array-transformation-iii](https://github.com/Tejas-Barde/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Divide and Conquer
 |  |
