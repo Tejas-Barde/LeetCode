@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Tejas-Barde/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0278-first-bad-version](https://github.com/Tejas-Barde/LeetCode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Tejas-Barde/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/Tejas-Barde/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Tejas-Barde/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -437,4 +438,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/Tejas-Barde/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Tejas-Barde/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Tejas-Barde/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
