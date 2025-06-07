@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Tejas-Barde/LeetCode/tree/master/0060-permutation-sequence) |
 | [0149-max-points-on-a-line](https://github.com/Tejas-Barde/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0224-basic-calculator](https://github.com/Tejas-Barde/LeetCode/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/Tejas-Barde/LeetCode/tree/master/0258-add-digits) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Tejas-Barde/LeetCode/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/Tejas-Barde/LeetCode/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/Tejas-Barde/LeetCode/tree/master/0224-basic-calculator) |
 ## Database
