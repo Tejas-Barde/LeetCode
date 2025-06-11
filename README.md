@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/Tejas-Barde/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0648-replace-words](https://github.com/Tejas-Barde/LeetCode/tree/master/0648-replace-words) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Tejas-Barde/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/Tejas-Barde/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tejas-Barde/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tejas-Barde/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Tejas-Barde/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Tejas-Barde/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0224-basic-calculator](https://github.com/Tejas-Barde/LeetCode/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/Tejas-Barde/LeetCode/tree/master/0258-add-digits) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/Tejas-Barde/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Tejas-Barde/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/Tejas-Barde/LeetCode/tree/master/3321-type-of-triangle) |
 ## Stack
