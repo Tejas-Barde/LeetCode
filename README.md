@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Tejas-Barde/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tejas-Barde/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0502-ipo](https://github.com/Tejas-Barde/LeetCode/tree/master/0502-ipo) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Tejas-Barde/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Tejas-Barde/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/Tejas-Barde/LeetCode/tree/master/0648-replace-words) |
 | [0945-snakes-and-ladders](https://github.com/Tejas-Barde/LeetCode/tree/master/0945-snakes-and-ladders) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Tejas-Barde/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tejas-Barde/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tejas-Barde/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Tejas-Barde/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Tejas-Barde/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Tejas-Barde/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Tejas-Barde/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
