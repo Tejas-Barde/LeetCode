@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/Tejas-Barde/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Tejas-Barde/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Tejas-Barde/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Tejas-Barde/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Sliding Window
 |  |
 | ------- |
