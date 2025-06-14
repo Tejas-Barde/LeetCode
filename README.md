@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Tejas-Barde/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Tejas-Barde/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tejas-Barde/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Tejas-Barde/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1961-maximum-ice-cream-bars](https://github.com/Tejas-Barde/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Tejas-Barde/LeetCode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2058-concatenation-of-array](https://github.com/Tejas-Barde/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Tejas-Barde/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Tejas-Barde/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Tejas-Barde/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Tejas-Barde/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Tejas-Barde/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Tejas-Barde/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Tejas-Barde/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Tejas-Barde/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tejas-Barde/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0502-ipo](https://github.com/Tejas-Barde/LeetCode/tree/master/0502-ipo) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Tejas-Barde/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1961-maximum-ice-cream-bars](https://github.com/Tejas-Barde/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Tejas-Barde/LeetCode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Tejas-Barde/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
