@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Tejas-Barde/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Tejas-Barde/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Tejas-Barde/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/Tejas-Barde/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Tejas-Barde/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Tejas-Barde/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Tejas-Barde/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Tejas-Barde/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Tejas-Barde/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Tejas-Barde/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/Tejas-Barde/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Tejas-Barde/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Tejas-Barde/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Tejas-Barde/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Tejas-Barde/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Tejas-Barde/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Tejas-Barde/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/Tejas-Barde/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Tejas-Barde/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3321-type-of-triangle](https://github.com/Tejas-Barde/LeetCode/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/Tejas-Barde/LeetCode/tree/master/3647-zero-array-transformation-iii) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Tejas-Barde/LeetCode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Tejas-Barde/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Tejas-Barde/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/Tejas-Barde/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Tejas-Barde/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Tejas-Barde/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Tejas-Barde/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
