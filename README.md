@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/Tejas-Barde/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1046-max-consecutive-ones-iii](https://github.com/Tejas-Barde/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Tejas-Barde/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Tejas-Barde/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Tejas-Barde/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1397-search-suggestions-system](https://github.com/Tejas-Barde/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Tejas-Barde/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/Tejas-Barde/LeetCode/tree/master/0648-replace-words) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Tejas-Barde/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Tejas-Barde/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Tejas-Barde/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1397-search-suggestions-system](https://github.com/Tejas-Barde/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tejas-Barde/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tejas-Barde/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tejas-Barde/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/Tejas-Barde/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0648-replace-words](https://github.com/Tejas-Barde/LeetCode/tree/master/0648-replace-words) |
+| [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Tejas-Barde/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tejas-Barde/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Tejas-Barde/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Tejas-Barde/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-k-th-smallest-prime-fraction](https://github.com/Tejas-Barde/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1046-max-consecutive-ones-iii](https://github.com/Tejas-Barde/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Tejas-Barde/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Tejas-Barde/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Tejas-Barde/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1397-search-suggestions-system](https://github.com/Tejas-Barde/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Tejas-Barde/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
@@ -318,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tejas-Barde/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0502-ipo](https://github.com/Tejas-Barde/LeetCode/tree/master/0502-ipo) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Tejas-Barde/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Tejas-Barde/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1397-search-suggestions-system](https://github.com/Tejas-Barde/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Tejas-Barde/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1961-maximum-ice-cream-bars](https://github.com/Tejas-Barde/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
