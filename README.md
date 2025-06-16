@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-maximum-ice-cream-bars](https://github.com/Tejas-Barde/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Tejas-Barde/LeetCode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2058-concatenation-of-array](https://github.com/Tejas-Barde/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Tejas-Barde/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Tejas-Barde/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Tejas-Barde/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Tejas-Barde/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
