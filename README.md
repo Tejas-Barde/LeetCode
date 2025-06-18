@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-build-an-array-with-stack-operations](https://github.com/Tejas-Barde/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tejas-Barde/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Tejas-Barde/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Tejas-Barde/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1961-maximum-ice-cream-bars](https://github.com/Tejas-Barde/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Tejas-Barde/LeetCode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2058-concatenation-of-array](https://github.com/Tejas-Barde/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/Tejas-Barde/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tejas-Barde/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tejas-Barde/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Tejas-Barde/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Tejas-Barde/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Tejas-Barde/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Tejas-Barde/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Tejas-Barde/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1046-max-consecutive-ones-iii](https://github.com/Tejas-Barde/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Tejas-Barde/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Tejas-Barde/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/Tejas-Barde/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Tejas-Barde/LeetCode/tree/master/3643-zero-array-transformation-ii) |
