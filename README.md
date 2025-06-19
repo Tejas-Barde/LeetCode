@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Tejas-Barde/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2591-frog-jump-ii](https://github.com/Tejas-Barde/LeetCode/tree/master/2591-frog-jump-ii) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Tejas-Barde/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Tejas-Barde/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Tejas-Barde/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Tejas-Barde/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Tejas-Barde/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Tejas-Barde/LeetCode/tree/master/0221-maximal-square) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Tejas-Barde/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0945-snakes-and-ladders](https://github.com/Tejas-Barde/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Tejas-Barde/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## String
 |  |
 | ------- |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Tejas-Barde/LeetCode/tree/master/0258-add-digits) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Tejas-Barde/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [2058-concatenation-of-array](https://github.com/Tejas-Barde/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Tejas-Barde/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## Number Theory
 |  |
 | ------- |
