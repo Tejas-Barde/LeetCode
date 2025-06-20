@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Tejas-Barde/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/Tejas-Barde/LeetCode/tree/master/0648-replace-words) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Tejas-Barde/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0921-spiral-matrix-iii](https://github.com/Tejas-Barde/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0945-snakes-and-ladders](https://github.com/Tejas-Barde/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1046-max-consecutive-ones-iii](https://github.com/Tejas-Barde/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Tejas-Barde/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Tejas-Barde/LeetCode/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/Tejas-Barde/LeetCode/tree/master/0221-maximal-square) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Tejas-Barde/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0921-spiral-matrix-iii](https://github.com/Tejas-Barde/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0945-snakes-and-ladders](https://github.com/Tejas-Barde/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Tejas-Barde/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Tejas-Barde/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Tejas-Barde/LeetCode/tree/master/0258-add-digits) |
+| [0921-spiral-matrix-iii](https://github.com/Tejas-Barde/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Tejas-Barde/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [2058-concatenation-of-array](https://github.com/Tejas-Barde/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Tejas-Barde/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
