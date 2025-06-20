@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/Tejas-Barde/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1046-max-consecutive-ones-iii](https://github.com/Tejas-Barde/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Tejas-Barde/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1253-sort-the-matrix-diagonally](https://github.com/Tejas-Barde/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Tejas-Barde/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Tejas-Barde/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1397-search-suggestions-system](https://github.com/Tejas-Barde/LeetCode/tree/master/1397-search-suggestions-system) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Tejas-Barde/LeetCode/tree/master/0221-maximal-square) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Tejas-Barde/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0945-snakes-and-ladders](https://github.com/Tejas-Barde/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [1253-sort-the-matrix-diagonally](https://github.com/Tejas-Barde/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Tejas-Barde/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## String
 |  |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tejas-Barde/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0502-ipo](https://github.com/Tejas-Barde/LeetCode/tree/master/0502-ipo) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Tejas-Barde/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [1253-sort-the-matrix-diagonally](https://github.com/Tejas-Barde/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Tejas-Barde/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1397-search-suggestions-system](https://github.com/Tejas-Barde/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Tejas-Barde/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
